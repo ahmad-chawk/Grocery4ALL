@@ -3,7 +3,7 @@ Grocery4ALL Inventory Management System
 
 Overview
 -----------------------------------------------------------------------------------------------------------------
-The Grocery4ALL Booking System is a comprehensive tool designed to manage the inventory, revenue, and costs of the retail company Grocery4ALL. This system enables the business to efficiently track and manage their products, sales, and financial metrics through an easy-to-use interface.
+The Grocery4ALL Inventory Management System is a comprehensive tool designed to manage the inventory, revenue, and costs of the retail company Grocery4ALL. This system enables the business to efficiently track and manage their products, sales, and financial metrics through an easy-to-use interface.
 
 Features
 -----------------------------------------------------------------------------------------------------------------
