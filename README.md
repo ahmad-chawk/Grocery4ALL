@@ -1,12 +1,12 @@
 # Grocery4ALL Inventory Management System
 
-> Overview
+> ## Overview
 
 ---
 
 The Grocery4ALL Inventory Management System is a comprehensive tool designed to manage the inventory, revenue, and costs of retail companies. This system enables the business to efficiently track and manage their products, sales, and financial metrics through an easy-to-use interface.
 
-> Features
+> ## Features
 
 ---
 
@@ -35,7 +35,7 @@ The Grocery4ALL Inventory Management System is a comprehensive tool designed to 
    - Transactions like adding, restocking, and selling products update the revenue and costs accordingly.
    - The program ensures smooth and error-free operations with robust error handling mechanisms.
 
-> Usage Instructions
+> ## Usage Instructions
 
 ---
 
@@ -55,7 +55,7 @@ The Grocery4ALL Inventory Management System is a comprehensive tool designed to 
 6. Error Handling:
    - The program includes error handling to manage invalid inputs and operations gracefully.
 
-> Build
+> ## Build
 
 ---
 
